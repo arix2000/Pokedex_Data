@@ -4,14 +4,18 @@ import aiohttp
 import requests
 
 
-async def fetch_pokemon_details(s, url):
+def get_pokemon_details_reduced(pokemon_details):
     wanted_keys = ["id", "name", "types"]
+    image_url = pokemon_details["sprites"]["other"]["official-artwork"]["front_default"]
+    pokemon_details_filtered = {key: pokemon_details[key] for key in wanted_keys}
+    pokemon_details_filtered.update({"image_url": image_url})
+    return pokemon_details_filtered
+
+
+async def fetch_pokemon_details(s, url):
     async with s.get(url) as resp:
         pokemon_details: dict = await resp.json()
-        image_url = pokemon_details["sprites"]["other"]["official-artwork"]["front_default"]
-        pokemon_details_filtered = {key: pokemon_details[key] for key in wanted_keys}
-        pokemon_details_filtered.update({"image_url": image_url})
-        return pokemon_details_filtered
+        return get_pokemon_details_reduced(pokemon_details)
 
 
 async def get_pokemon_details_list_from(s, pokemon_basic_request: dict) -> list[dict]:
