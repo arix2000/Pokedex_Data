@@ -1,23 +1,9 @@
 import asyncio
 import json
 import os
-import matplotlib.pyplot as plt
-import numpy as np
-import pandas as pd
+
 import aiohttp
 import requests
-
-
-def show_types_count_diagram(type_list):
-    type_frame = pd.DataFrame(type_list)
-    types_names = type_frame.drop_duplicates().to_numpy().flatten()
-    count = type_frame.value_counts().values
-    plt.style.use('dark_background')
-    plt.figure(figsize=(14, 6))
-    plt.title("Pokemon Types Counts")
-    plt.ylabel("Count")
-    plt.bar(types_names, count, width=0.9)
-    plt.show()
 
 
 def get_mapped_types(pok_types):
@@ -52,17 +38,11 @@ async def get_pokemon_details_list_from(s, pokemon_basic_request: dict):
         tasks.append(task)
         processed_pokemons += 1
         os.system('cls' if os.name == 'nt' else 'clear')
-        print("ProcessedPokemons: " + str(processed_pokemons) + "/" + str(pokemon_basic_request["count"]))
+        print("Processed pokemons: " + str(processed_pokemons) + "/" + str(pokemon_basic_request["count"]))
 
     all_pokemon_details = await asyncio.gather(*tasks)
-    with open("./data/pokemon/pokemonDetails.json", 'w') as fp:
+    with open("./data/pokemonList.json", 'w') as fp:
         json.dump(all_pokemon_details, fp)
-
-    type_list = []
-    for detail in all_pokemon_details:
-        type_list.append(detail["types"][0]["name"])
-
-    show_types_count_diagram(type_list)
 
 
 async def main():
