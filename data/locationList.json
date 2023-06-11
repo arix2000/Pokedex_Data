@@ -1,0 +1,6529 @@
+[
+  {
+    "id": 1,
+    "name": "canalave-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 2,
+    "name": "eterna-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 3,
+    "name": "pastoria-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 4,
+    "name": "sunyshore-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 5,
+    "name": "sinnoh-pokemon-league",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 6,
+    "name": "oreburgh-mine",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 7,
+    "name": "valley-windworks",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 8,
+    "name": "eterna-forest",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 9,
+    "name": "fuego-ironworks",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 10,
+    "name": "mt-coronet",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 11,
+    "name": "great-marsh",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 12,
+    "name": "solaceon-ruins",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 13,
+    "name": "sinnoh-victory-road",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 14,
+    "name": "ravaged-path",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 15,
+    "name": "oreburgh-gate",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 16,
+    "name": "stark-mountain",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 17,
+    "name": "spring-path",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 18,
+    "name": "turnback-cave",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 19,
+    "name": "snowpoint-temple",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 20,
+    "name": "wayward-cave",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 22,
+    "name": "ruin-maniac-cave",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 23,
+    "name": "trophy-garden",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 24,
+    "name": "iron-island",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 25,
+    "name": "old-chateau",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 26,
+    "name": "lake-verity",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 27,
+    "name": "lake-valor",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 28,
+    "name": "lake-acuity",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 29,
+    "name": "valor-lakefront",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 30,
+    "name": "acuity-lakefront",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 31,
+    "name": "sinnoh-route-201",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 32,
+    "name": "sinnoh-route-202",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 33,
+    "name": "sinnoh-route-203",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 34,
+    "name": "sinnoh-route-204",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 35,
+    "name": "sinnoh-route-205",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 36,
+    "name": "sinnoh-route-206",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 37,
+    "name": "sinnoh-route-207",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 38,
+    "name": "sinnoh-route-208",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 39,
+    "name": "sinnoh-route-209",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 40,
+    "name": "lost-tower",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 41,
+    "name": "sinnoh-route-210",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 42,
+    "name": "sinnoh-route-211",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 43,
+    "name": "sinnoh-route-212",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 44,
+    "name": "sinnoh-route-213",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 45,
+    "name": "sinnoh-route-214",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 46,
+    "name": "sinnoh-route-215",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 47,
+    "name": "sinnoh-route-216",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 48,
+    "name": "sinnoh-route-217",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 49,
+    "name": "sinnoh-route-218",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 50,
+    "name": "sinnoh-route-219",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 51,
+    "name": "sinnoh-route-221",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 52,
+    "name": "sinnoh-route-222",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 53,
+    "name": "sinnoh-route-224",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 54,
+    "name": "sinnoh-route-225",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 55,
+    "name": "sinnoh-route-227",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 56,
+    "name": "sinnoh-route-228",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 57,
+    "name": "sinnoh-route-229",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 58,
+    "name": "twinleaf-town",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 59,
+    "name": "celestic-town",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 60,
+    "name": "resort-area",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 61,
+    "name": "sinnoh-sea-route-220",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 62,
+    "name": "sinnoh-sea-route-223",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 63,
+    "name": "sinnoh-sea-route-226",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 64,
+    "name": "sinnoh-sea-route-230",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 65,
+    "name": "blackthorn-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 66,
+    "name": "burned-tower",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 67,
+    "name": "celadon-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 68,
+    "name": "cerulean-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 69,
+    "name": "cherrygrove-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 70,
+    "name": "cianwood-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 71,
+    "name": "cinnabar-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 72,
+    "name": "dark-cave",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 73,
+    "name": "digletts-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 74,
+    "name": "dragons-den",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 75,
+    "name": "ecruteak-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 76,
+    "name": "fuchsia-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 77,
+    "name": "ice-path",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 78,
+    "name": "ilex-forest",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 79,
+    "name": "lake-of-rage",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 80,
+    "name": "mt-moon",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 81,
+    "name": "mt-mortar",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 82,
+    "name": "mt-silver",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 83,
+    "name": "national-park",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 84,
+    "name": "new-bark-town",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 85,
+    "name": "olivine-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 86,
+    "name": "pallet-town",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 87,
+    "name": "rock-tunnel",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 88,
+    "name": "kanto-route-1",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 89,
+    "name": "kanto-route-10",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 90,
+    "name": "kanto-route-11",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 91,
+    "name": "kanto-route-12",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 92,
+    "name": "kanto-route-13",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 93,
+    "name": "kanto-route-14",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 94,
+    "name": "kanto-route-15",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 95,
+    "name": "kanto-route-16",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 96,
+    "name": "kanto-route-17",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 97,
+    "name": "kanto-route-18",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 98,
+    "name": "kanto-sea-route-19",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 99,
+    "name": "kanto-route-2",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 100,
+    "name": "kanto-sea-route-20",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 101,
+    "name": "kanto-sea-route-21",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 102,
+    "name": "kanto-route-22",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 103,
+    "name": "kanto-route-24",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 104,
+    "name": "kanto-route-25",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 105,
+    "name": "kanto-route-26",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 106,
+    "name": "kanto-route-27",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 107,
+    "name": "kanto-route-28",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 108,
+    "name": "johto-route-29",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 109,
+    "name": "kanto-route-3",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 110,
+    "name": "johto-route-30",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 111,
+    "name": "johto-route-31",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 112,
+    "name": "johto-route-32",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 113,
+    "name": "johto-route-33",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 114,
+    "name": "johto-route-34",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 115,
+    "name": "johto-route-35",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 116,
+    "name": "johto-route-36",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 117,
+    "name": "johto-route-37",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 118,
+    "name": "johto-route-38",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 119,
+    "name": "johto-route-39",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 120,
+    "name": "kanto-route-4",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 121,
+    "name": "johto-sea-route-40",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 122,
+    "name": "johto-sea-route-41",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 123,
+    "name": "johto-route-42",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 124,
+    "name": "johto-route-43",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 125,
+    "name": "johto-route-44",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 126,
+    "name": "johto-route-45",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 127,
+    "name": "johto-route-46",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 128,
+    "name": "johto-route-47",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 129,
+    "name": "johto-route-48",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 130,
+    "name": "kanto-route-5",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 131,
+    "name": "kanto-route-6",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 132,
+    "name": "kanto-route-7",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 133,
+    "name": "kanto-route-8",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 134,
+    "name": "kanto-route-9",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 135,
+    "name": "ruins-of-alph",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 136,
+    "name": "seafoam-islands",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 137,
+    "name": "slowpoke-well",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 138,
+    "name": "sprout-tower",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 139,
+    "name": "bell-tower",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 140,
+    "name": "tohjo-falls",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 141,
+    "name": "union-cave",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 147,
+    "name": "cerulean-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 148,
+    "name": "unknown-all-poliwag",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 149,
+    "name": "unknown-all-rattata",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 150,
+    "name": "unknown-all-bugs",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 151,
+    "name": "vermilion-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 152,
+    "name": "kanto-victory-road-1",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 153,
+    "name": "violet-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 154,
+    "name": "viridian-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 155,
+    "name": "viridian-forest",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 156,
+    "name": "whirl-islands",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 157,
+    "name": "kanto-route-23",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 158,
+    "name": "power-plant",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 159,
+    "name": "kanto-victory-road-2",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 160,
+    "name": "pokemon-tower",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 161,
+    "name": "pokemon-mansion",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 162,
+    "name": "kanto-safari-zone",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 163,
+    "name": "sandgem-town",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 164,
+    "name": "floaroma-town",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 165,
+    "name": "solaceon-town",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 167,
+    "name": "jubilife-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 168,
+    "name": "oreburgh-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 169,
+    "name": "hearthome-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 170,
+    "name": "veilstone-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 171,
+    "name": "snowpoint-city",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 172,
+    "name": "spear-pillar",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 173,
+    "name": "pal-park",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 174,
+    "name": "amity-square",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 175,
+    "name": "floaroma-meadow",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 177,
+    "name": "fullmoon-island",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 178,
+    "name": "sendoff-spring",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 179,
+    "name": "flower-paradise",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 180,
+    "name": "maniac-tunnel",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 181,
+    "name": "galactic-hq",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 182,
+    "name": "verity-lakefront",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 183,
+    "name": "newmoon-island",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 184,
+    "name": "sinnoh-battle-tower",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 185,
+    "name": "fight-area",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 186,
+    "name": "survival-area",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 187,
+    "name": "seabreak-path",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 188,
+    "name": "sinnoh-hall-of-origin-1",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 189,
+    "name": "sinnoh-hall-of-origin-2",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 190,
+    "name": "verity-cavern",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 191,
+    "name": "valor-cavern",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 192,
+    "name": "acuity-cavern",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 193,
+    "name": "jubilife-tv",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 194,
+    "name": "poketch-co",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 195,
+    "name": "gts",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 196,
+    "name": "trainers-school",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 197,
+    "name": "mining-museum",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 198,
+    "name": "sinnoh-flower-shop",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 199,
+    "name": "sinnoh-cycle-shop",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 200,
+    "name": "contest-hall",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 201,
+    "name": "poffin-house",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 202,
+    "name": "sinnoh-foreign-building",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 203,
+    "name": "pokemon-day-care",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 204,
+    "name": "veilstone-store",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 205,
+    "name": "sinnoh-game-corner",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 206,
+    "name": "canalave-library",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 207,
+    "name": "vista-lighthouse",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 208,
+    "name": "sunyshore-market",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 209,
+    "name": "footstep-house",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 210,
+    "name": "sinnoh-cafe",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 211,
+    "name": "grand-lake",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 212,
+    "name": "sinnoh-restaurant",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 213,
+    "name": "battle-park",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 214,
+    "name": "battle-frontier",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 215,
+    "name": "battle-factory",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 216,
+    "name": "battle-castle",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 217,
+    "name": "battle-arcade",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 218,
+    "name": "battle-hall",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 219,
+    "name": "distortion-world",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 220,
+    "name": "sinnoh-global-terminal",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 221,
+    "name": "sinnoh-villa",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 222,
+    "name": "battleground",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 223,
+    "name": "rotoms-room",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 224,
+    "name": "tg-eterna-bldg",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 225,
+    "name": "iron-ruins",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 226,
+    "name": "iceberg-ruins",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 227,
+    "name": "rock-peak-ruins",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 228,
+    "name": "azalea-town",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 229,
+    "name": "goldenrod-city",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 230,
+    "name": "mahogany-town",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 231,
+    "name": "pewter-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 232,
+    "name": "lavender-town",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 233,
+    "name": "indigo-plateau",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 234,
+    "name": "saffron-city",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 236,
+    "name": "johto-lighthouse",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 237,
+    "name": "team-rocket-hq",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 238,
+    "name": "goldenrod-tunnel",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 239,
+    "name": "mt-silver-cave",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 241,
+    "name": "pokeathlon-dome",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 242,
+    "name": "ss-aqua",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 243,
+    "name": "safari-zone-gate",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 244,
+    "name": "cliff-cave",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 245,
+    "name": "frontier-access",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 246,
+    "name": "bellchime-trail",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 247,
+    "name": "sinjoh-ruins",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 248,
+    "name": "embedded-tower",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 249,
+    "name": "pokewalker",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 250,
+    "name": "cliff-edge-gate",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 252,
+    "name": "radio-tower",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 253,
+    "name": "day-care-couple",
+    "region": null
+  },
+  {
+    "id": 254,
+    "name": "link-trade-arrive",
+    "region": null
+  },
+  {
+    "id": 255,
+    "name": "link-trade-met",
+    "region": null
+  },
+  {
+    "id": 256,
+    "name": "kanto",
+    "region": null
+  },
+  {
+    "id": 257,
+    "name": "johto",
+    "region": null
+  },
+  {
+    "id": 258,
+    "name": "hoenn",
+    "region": null
+  },
+  {
+    "id": 259,
+    "name": "sinnoh",
+    "region": null
+  },
+  {
+    "id": 260,
+    "name": "distant-land",
+    "region": null
+  },
+  {
+    "id": 261,
+    "name": "traveling-man",
+    "region": null
+  },
+  {
+    "id": 262,
+    "name": "riley",
+    "region": null
+  },
+  {
+    "id": 263,
+    "name": "cynthia",
+    "region": null
+  },
+  {
+    "id": 264,
+    "name": "mystery-zone",
+    "region": null
+  },
+  {
+    "id": 265,
+    "name": "lovely-place",
+    "region": null
+  },
+  {
+    "id": 266,
+    "name": "pokemon-ranger",
+    "region": null
+  },
+  {
+    "id": 267,
+    "name": "faraway-place",
+    "region": null
+  },
+  {
+    "id": 268,
+    "name": "pokemon-movie",
+    "region": null
+  },
+  {
+    "id": 269,
+    "name": "pokemon-movie-06",
+    "region": null
+  },
+  {
+    "id": 270,
+    "name": "pokemon-movie-07",
+    "region": null
+  },
+  {
+    "id": 271,
+    "name": "pokemon-movie-08",
+    "region": null
+  },
+  {
+    "id": 272,
+    "name": "pokemon-movie-09",
+    "region": null
+  },
+  {
+    "id": 273,
+    "name": "pokemon-movie-10",
+    "region": null
+  },
+  {
+    "id": 274,
+    "name": "pokemon-movie-11",
+    "region": null
+  },
+  {
+    "id": 275,
+    "name": "pokemon-movie-12",
+    "region": null
+  },
+  {
+    "id": 276,
+    "name": "pokemon-movie-13",
+    "region": null
+  },
+  {
+    "id": 277,
+    "name": "pokemon-movie-14",
+    "region": null
+  },
+  {
+    "id": 278,
+    "name": "pokemon-movie-15",
+    "region": null
+  },
+  {
+    "id": 279,
+    "name": "pokemon-movie-16",
+    "region": null
+  },
+  {
+    "id": 280,
+    "name": "pokemon-cartoon",
+    "region": null
+  },
+  {
+    "id": 281,
+    "name": "space-world",
+    "region": null
+  },
+  {
+    "id": 282,
+    "name": "space-world-06",
+    "region": null
+  },
+  {
+    "id": 283,
+    "name": "space-world-07",
+    "region": null
+  },
+  {
+    "id": 284,
+    "name": "space-world-08",
+    "region": null
+  },
+  {
+    "id": 285,
+    "name": "space-world-09",
+    "region": null
+  },
+  {
+    "id": 286,
+    "name": "space-world-10",
+    "region": null
+  },
+  {
+    "id": 287,
+    "name": "space-world-11",
+    "region": null
+  },
+  {
+    "id": 288,
+    "name": "space-world-12",
+    "region": null
+  },
+  {
+    "id": 289,
+    "name": "space-world-13",
+    "region": null
+  },
+  {
+    "id": 290,
+    "name": "space-world-14",
+    "region": null
+  },
+  {
+    "id": 291,
+    "name": "space-world-15",
+    "region": null
+  },
+  {
+    "id": 292,
+    "name": "space-world-16",
+    "region": null
+  },
+  {
+    "id": 293,
+    "name": "pokemon-festa",
+    "region": null
+  },
+  {
+    "id": 294,
+    "name": "pokemon-festa-06",
+    "region": null
+  },
+  {
+    "id": 295,
+    "name": "pokemon-festa-07",
+    "region": null
+  },
+  {
+    "id": 296,
+    "name": "pokemon-festa-08",
+    "region": null
+  },
+  {
+    "id": 297,
+    "name": "pokemon-festa-09",
+    "region": null
+  },
+  {
+    "id": 298,
+    "name": "pokemon-festa-10",
+    "region": null
+  },
+  {
+    "id": 299,
+    "name": "pokemon-festa-11",
+    "region": null
+  },
+  {
+    "id": 300,
+    "name": "pokemon-festa-12",
+    "region": null
+  },
+  {
+    "id": 301,
+    "name": "pokemon-festa-13",
+    "region": null
+  },
+  {
+    "id": 302,
+    "name": "pokemon-festa-14",
+    "region": null
+  },
+  {
+    "id": 303,
+    "name": "pokemon-festa-15",
+    "region": null
+  },
+  {
+    "id": 304,
+    "name": "pokemon-festa-16",
+    "region": null
+  },
+  {
+    "id": 305,
+    "name": "pokepark",
+    "region": null
+  },
+  {
+    "id": 306,
+    "name": "pokepark-06",
+    "region": null
+  },
+  {
+    "id": 307,
+    "name": "pokepark-07",
+    "region": null
+  },
+  {
+    "id": 308,
+    "name": "pokepark-08",
+    "region": null
+  },
+  {
+    "id": 309,
+    "name": "pokepark-09",
+    "region": null
+  },
+  {
+    "id": 310,
+    "name": "pokepark-10",
+    "region": null
+  },
+  {
+    "id": 311,
+    "name": "pokepark-11",
+    "region": null
+  },
+  {
+    "id": 312,
+    "name": "pokepark-12",
+    "region": null
+  },
+  {
+    "id": 313,
+    "name": "pokepark-13",
+    "region": null
+  },
+  {
+    "id": 314,
+    "name": "pokepark-14",
+    "region": null
+  },
+  {
+    "id": 315,
+    "name": "pokepark-15",
+    "region": null
+  },
+  {
+    "id": 316,
+    "name": "pokepark-16",
+    "region": null
+  },
+  {
+    "id": 317,
+    "name": "pokemon-center",
+    "region": null
+  },
+  {
+    "id": 318,
+    "name": "pc-tokyo",
+    "region": null
+  },
+  {
+    "id": 319,
+    "name": "pc-osaka",
+    "region": null
+  },
+  {
+    "id": 320,
+    "name": "pc-fukuoka",
+    "region": null
+  },
+  {
+    "id": 321,
+    "name": "pc-nagoya",
+    "region": null
+  },
+  {
+    "id": 322,
+    "name": "pc-sapporo",
+    "region": null
+  },
+  {
+    "id": 323,
+    "name": "pc-yokohama",
+    "region": null
+  },
+  {
+    "id": 324,
+    "name": "nintendo-world",
+    "region": null
+  },
+  {
+    "id": 325,
+    "name": "pokemon-event",
+    "region": null
+  },
+  {
+    "id": 326,
+    "name": "pokemon-event-06",
+    "region": null
+  },
+  {
+    "id": 327,
+    "name": "pokemon-event-07",
+    "region": null
+  },
+  {
+    "id": 328,
+    "name": "pokemon-event-08",
+    "region": null
+  },
+  {
+    "id": 329,
+    "name": "pokemon-event-09",
+    "region": null
+  },
+  {
+    "id": 330,
+    "name": "pokemon-event-10",
+    "region": null
+  },
+  {
+    "id": 331,
+    "name": "pokemon-event-11",
+    "region": null
+  },
+  {
+    "id": 332,
+    "name": "pokemon-event-12",
+    "region": null
+  },
+  {
+    "id": 333,
+    "name": "pokemon-event-13",
+    "region": null
+  },
+  {
+    "id": 334,
+    "name": "pokemon-event-14",
+    "region": null
+  },
+  {
+    "id": 335,
+    "name": "pokemon-event-15",
+    "region": null
+  },
+  {
+    "id": 336,
+    "name": "pokemon-event-16",
+    "region": null
+  },
+  {
+    "id": 337,
+    "name": "wi-fi-event",
+    "region": null
+  },
+  {
+    "id": 338,
+    "name": "wi-fi-gift",
+    "region": null
+  },
+  {
+    "id": 339,
+    "name": "pokemon-fan-club",
+    "region": null
+  },
+  {
+    "id": 340,
+    "name": "event-site",
+    "region": null
+  },
+  {
+    "id": 341,
+    "name": "concert-event",
+    "region": null
+  },
+  {
+    "id": 342,
+    "name": "mr-pokemon",
+    "region": null
+  },
+  {
+    "id": 343,
+    "name": "primo",
+    "region": null
+  },
+  {
+    "id": 344,
+    "name": "unova-mystery-zone",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 345,
+    "name": "unova-faraway-place",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 346,
+    "name": "nuvema-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 347,
+    "name": "accumula-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 348,
+    "name": "striaton-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 349,
+    "name": "nacrene-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 350,
+    "name": "castelia-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 351,
+    "name": "nimbasa-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 352,
+    "name": "driftveil-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 353,
+    "name": "mistralton-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 354,
+    "name": "icirrus-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 355,
+    "name": "opelucid-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 356,
+    "name": "unova-route-1",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 357,
+    "name": "unova-route-2",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 358,
+    "name": "unova-route-3",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 359,
+    "name": "unova-route-4",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 360,
+    "name": "unova-route-5",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 361,
+    "name": "unova-route-6",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 362,
+    "name": "unova-route-7",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 363,
+    "name": "unova-route-8",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 364,
+    "name": "unova-route-9",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 365,
+    "name": "unova-route-10",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 366,
+    "name": "unova-route-11",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 367,
+    "name": "unova-route-12",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 368,
+    "name": "unova-route-13",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 369,
+    "name": "unova-route-14",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 370,
+    "name": "unova-route-15",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 371,
+    "name": "unova-route-16",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 372,
+    "name": "unova-route-17",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 373,
+    "name": "unova-route-18",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 374,
+    "name": "dreamyard",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 375,
+    "name": "pinwheel-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 376,
+    "name": "desert-resort",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 377,
+    "name": "relic-castle",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 378,
+    "name": "cold-storage",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 379,
+    "name": "chargestone-cave",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 380,
+    "name": "twist-mountain",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 381,
+    "name": "dragonspiral-tower",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 382,
+    "name": "unova-victory-road",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 383,
+    "name": "lacunosa-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 384,
+    "name": "undella-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 385,
+    "name": "anville-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 386,
+    "name": "unova-pokemon-league",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 387,
+    "name": "ns-castle",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 388,
+    "name": "royal-unova",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 389,
+    "name": "gear-station",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 390,
+    "name": "battle-subway",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 391,
+    "name": "musical-theater",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 392,
+    "name": "black-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 393,
+    "name": "white-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 394,
+    "name": "unity-tower",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 395,
+    "name": "wellspring-cave",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 396,
+    "name": "mistralton-cave",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 397,
+    "name": "rumination-field",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 398,
+    "name": "celestial-tower",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 399,
+    "name": "moor-of-icirrus",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 400,
+    "name": "unova-shopping-mall",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 401,
+    "name": "challengers-cave",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 402,
+    "name": "poke-transfer-lab",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 403,
+    "name": "giant-chasm",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 404,
+    "name": "liberty-garden",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 405,
+    "name": "p2-laboratory",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 406,
+    "name": "skyarrow-bridge",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 407,
+    "name": "driftveil-drawbridge",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 408,
+    "name": "tubeline-bridge",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 409,
+    "name": "village-bridge",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 410,
+    "name": "marvelous-bridge",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 411,
+    "name": "entralink",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 412,
+    "name": "abundant-shrine",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 413,
+    "name": "undella-bay",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 414,
+    "name": "lostlorn-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 415,
+    "name": "trial-chamber",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 416,
+    "name": "guidance-chamber",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 417,
+    "name": "entree-forest",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 418,
+    "name": "accumula-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 419,
+    "name": "undella-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 420,
+    "name": "nacrene-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 421,
+    "name": "castelia-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 422,
+    "name": "nimbasa-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 423,
+    "name": "opelucid-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 424,
+    "name": "black-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 425,
+    "name": "white-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 426,
+    "name": "bridge-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 427,
+    "name": "route-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 428,
+    "name": "abyssal-ruins",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 429,
+    "name": "petalburg-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 430,
+    "name": "slateport-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 431,
+    "name": "lilycove-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 432,
+    "name": "mossdeep-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 433,
+    "name": "sootopolis-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 434,
+    "name": "ever-grande-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 435,
+    "name": "meteor-falls",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 436,
+    "name": "rusturf-tunnel",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 437,
+    "name": "granite-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 438,
+    "name": "petalburg-woods",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 439,
+    "name": "jagged-pass",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 440,
+    "name": "fiery-path",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 441,
+    "name": "mt-pyre",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 442,
+    "name": "seafloor-cavern",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 443,
+    "name": "cave-of-origin",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 444,
+    "name": "hoenn-victory-road",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 445,
+    "name": "shoal-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 446,
+    "name": "new-mauville",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 447,
+    "name": "abandoned-ship",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 448,
+    "name": "sky-pillar",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 449,
+    "name": "hoenn-route-101",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 450,
+    "name": "hoenn-route-102",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 451,
+    "name": "hoenn-route-103",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 452,
+    "name": "hoenn-route-104",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 453,
+    "name": "hoenn-route-105",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 454,
+    "name": "hoenn-route-106",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 455,
+    "name": "hoenn-route-107",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 456,
+    "name": "hoenn-route-108",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 457,
+    "name": "hoenn-route-109",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 458,
+    "name": "hoenn-route-110",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 459,
+    "name": "hoenn-route-111",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 460,
+    "name": "hoenn-route-112",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 461,
+    "name": "hoenn-route-113",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 462,
+    "name": "hoenn-route-114",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 463,
+    "name": "hoenn-route-115",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 464,
+    "name": "hoenn-route-116",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 465,
+    "name": "hoenn-route-117",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 466,
+    "name": "hoenn-route-118",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 467,
+    "name": "hoenn-route-119",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 468,
+    "name": "hoenn-route-120",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 469,
+    "name": "hoenn-route-121",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 470,
+    "name": "hoenn-route-122",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 471,
+    "name": "hoenn-route-123",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 472,
+    "name": "hoenn-route-124",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 473,
+    "name": "hoenn-route-125",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 474,
+    "name": "hoenn-route-126",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 475,
+    "name": "hoenn-route-127",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 476,
+    "name": "hoenn-route-128",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 477,
+    "name": "hoenn-route-129",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 478,
+    "name": "hoenn-route-130",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 479,
+    "name": "hoenn-route-131",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 480,
+    "name": "hoenn-route-132",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 481,
+    "name": "hoenn-route-133",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 482,
+    "name": "hoenn-route-134",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 483,
+    "name": "hoenn-safari-zone",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 484,
+    "name": "dewford-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 485,
+    "name": "pacifidlog-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 486,
+    "name": "magma-hideout",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 487,
+    "name": "mirage-tower",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 488,
+    "name": "desert-underpass",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 489,
+    "name": "artisan-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 490,
+    "name": "hoenn-altering-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 491,
+    "name": "monean-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 492,
+    "name": "liptoo-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 493,
+    "name": "weepth-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 494,
+    "name": "dilford-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 495,
+    "name": "scufib-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 496,
+    "name": "rixy-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 497,
+    "name": "viapos-chamber",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 498,
+    "name": "ss-anne",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 500,
+    "name": "mt-ember",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 501,
+    "name": "berry-forest",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 502,
+    "name": "icefall-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 503,
+    "name": "pattern-bush",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 504,
+    "name": "lost-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 505,
+    "name": "kindle-road",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 506,
+    "name": "treasure-beach",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 507,
+    "name": "cape-brink",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 508,
+    "name": "bond-bridge",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 509,
+    "name": "three-isle-port",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 510,
+    "name": "resort-gorgeous",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 511,
+    "name": "water-labyrinth",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 512,
+    "name": "five-isle-meadow",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 513,
+    "name": "memorial-pillar",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 514,
+    "name": "outcast-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 515,
+    "name": "green-path",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 516,
+    "name": "water-path",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 517,
+    "name": "ruin-valley",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 518,
+    "name": "trainer-tower",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 519,
+    "name": "canyon-entrance",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 520,
+    "name": "sevault-canyon",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 521,
+    "name": "tanoby-ruins",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 526,
+    "name": "one-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 527,
+    "name": "four-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 528,
+    "name": "five-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 529,
+    "name": "kanto-altering-cave",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 531,
+    "name": "aspertia-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 532,
+    "name": "virbank-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 533,
+    "name": "humilau-city",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 534,
+    "name": "pokestar-studios",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 535,
+    "name": "join-avenue",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 536,
+    "name": "floccesy-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 537,
+    "name": "lentimas-town",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 538,
+    "name": "unova-route-19",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 539,
+    "name": "unova-route-20",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 540,
+    "name": "unova-route-21",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 541,
+    "name": "unova-route-22",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 542,
+    "name": "unova-route-23",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 543,
+    "name": "castelia-sewers",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 544,
+    "name": "floccesy-ranch",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 545,
+    "name": "virbank-complex",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 546,
+    "name": "reversal-mountain",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 547,
+    "name": "strange-house",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 548,
+    "name": "unova-victory-road-2",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 549,
+    "name": "plasma-frigate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 550,
+    "name": "relic-passage",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 551,
+    "name": "clay-tunnel",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 552,
+    "name": "white-treehollow",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 553,
+    "name": "black-tower",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 554,
+    "name": "seaside-cave",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 555,
+    "name": "cave-of-being",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 556,
+    "name": "hidden-grotto",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 557,
+    "name": "marine-tube",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 558,
+    "name": "virbank-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 559,
+    "name": "aspertia-gate",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 560,
+    "name": "nature-sanctuary",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 561,
+    "name": "medal-secretariat",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 562,
+    "name": "underground-ruins",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 563,
+    "name": "rocky-mountain-room",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 564,
+    "name": "glacier-room",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 565,
+    "name": "iron-room",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 566,
+    "name": "pledge-grove",
+    "region": {
+      "name": "unova",
+      "url": "https://pokeapi.co/api/v2/region/5/"
+    }
+  },
+  {
+    "id": 567,
+    "name": "littleroot-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 568,
+    "name": "oldale-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 569,
+    "name": "lavaridge-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 570,
+    "name": "fallarbor-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 571,
+    "name": "verdanturf-town",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 572,
+    "name": "mauville-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 573,
+    "name": "rustboro-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 574,
+    "name": "fortree-city",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 575,
+    "name": "underwater",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 576,
+    "name": "mt-chimney",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 577,
+    "name": "mirage-island",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 578,
+    "name": "southern-island",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 579,
+    "name": "sealed-chamber",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 580,
+    "name": "scorched-slab",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 581,
+    "name": "island-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 582,
+    "name": "desert-ruins",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 583,
+    "name": "ancient-tomb",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 584,
+    "name": "inside-of-truck",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 585,
+    "name": "secret-base",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 586,
+    "name": "hoenn-battle-tower",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 587,
+    "name": "vaniville-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 588,
+    "name": "kalos-route-1",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 589,
+    "name": "vaniville-pathway",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 590,
+    "name": "aquacorde-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 591,
+    "name": "kalos-route-2",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 592,
+    "name": "avance-trail",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 593,
+    "name": "santalune-forest",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 594,
+    "name": "kalos-route-3",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 595,
+    "name": "ouvert-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 596,
+    "name": "santalune-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 597,
+    "name": "kalos-route-4",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 598,
+    "name": "parterre-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 599,
+    "name": "lumiose-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 600,
+    "name": "prism-tower",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 601,
+    "name": "lysandre-labs",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 602,
+    "name": "kalos-route-5",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 603,
+    "name": "versant-road",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 604,
+    "name": "camphrier-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 605,
+    "name": "shabboneau-castle",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 606,
+    "name": "kalos-route-6",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 607,
+    "name": "palais-lane",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 608,
+    "name": "parfum-palace",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 609,
+    "name": "kalos-route-7",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 610,
+    "name": "rivi\u00e8re-walk",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 611,
+    "name": "cyllage-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 612,
+    "name": "kalos-route-8",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 613,
+    "name": "muraille-coast",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 614,
+    "name": "ambrette-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 615,
+    "name": "kalos-route-9",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 616,
+    "name": "spikes-passage",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 617,
+    "name": "battle-chateau",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 618,
+    "name": "kalos-route-10",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 619,
+    "name": "menhir-trail",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 620,
+    "name": "geosenge-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 621,
+    "name": "kalos-route-11",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 622,
+    "name": "miroir-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 623,
+    "name": "reflection-cave",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 624,
+    "name": "shalour-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 625,
+    "name": "tower-of-mastery",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 626,
+    "name": "kalos-route-12",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 627,
+    "name": "fourrage-road",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 628,
+    "name": "coumarine-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 629,
+    "name": "kalos-route-13",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 630,
+    "name": "lumiose-badlands",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 631,
+    "name": "kalos-route-14",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 632,
+    "name": "laverre-nature-trail",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 633,
+    "name": "laverre-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 634,
+    "name": "poke-ball-factory",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 635,
+    "name": "kalos-route-15",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 636,
+    "name": "brun-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 637,
+    "name": "dendemille-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 638,
+    "name": "kalos-route-16",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 639,
+    "name": "melancolie-path",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 640,
+    "name": "frost-cavern",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 641,
+    "name": "kalos-route-17",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 642,
+    "name": "mamoswine-road",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 643,
+    "name": "anistar-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 644,
+    "name": "kalos-route-18",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 645,
+    "name": "vallee-etroite-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 646,
+    "name": "couriway-town",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 647,
+    "name": "kalos-route-19",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 648,
+    "name": "grande-vallee-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 649,
+    "name": "snowbelle-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 650,
+    "name": "kalos-route-20",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 651,
+    "name": "winding-woods",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 652,
+    "name": "pokemon-village",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 653,
+    "name": "kalos-route-21",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 654,
+    "name": "derni\u00e8re-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 655,
+    "name": "kalos-route-22",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 656,
+    "name": "detourner-way",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 657,
+    "name": "kalos-victory-road",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 658,
+    "name": "kalos-pokemon-league",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 659,
+    "name": "kiloude-city",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 660,
+    "name": "battle-maison",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 661,
+    "name": "azure-bay",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 662,
+    "name": "dendemille-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 663,
+    "name": "couriway-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 664,
+    "name": "ambrette-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 665,
+    "name": "lumiose-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 666,
+    "name": "shalour-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 667,
+    "name": "coumarine-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 668,
+    "name": "laverre-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 669,
+    "name": "anistar-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 670,
+    "name": "snowbelle-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 671,
+    "name": "glittering-cave",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 672,
+    "name": "connecting-cave",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 673,
+    "name": "zubat-roost",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 674,
+    "name": "kalos-power-plant",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 675,
+    "name": "team-flare-secret-hq",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 676,
+    "name": "terminus-cave",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 677,
+    "name": "lost-hotel",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 678,
+    "name": "chamber-of-emptiness",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 679,
+    "name": "sea-spirits-den",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 680,
+    "name": "friend-safari",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 681,
+    "name": "blazing-chamber",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 682,
+    "name": "flood-chamber",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 683,
+    "name": "ironworks-chamber",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 684,
+    "name": "dragonmark-chamber",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 685,
+    "name": "radiant-chamber",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 686,
+    "name": "pokemon-league-gate",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 687,
+    "name": "lumiose-station",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 688,
+    "name": "kiloude-station",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 689,
+    "name": "ambrette-aquarium",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 690,
+    "name": "unknown-dungeon",
+    "region": {
+      "name": "kalos",
+      "url": "https://pokeapi.co/api/v2/region/6/"
+    }
+  },
+  {
+    "id": 691,
+    "name": "hoenn-pokemon-league",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 692,
+    "name": "team-aqua-hideout",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 693,
+    "name": "sea-mauville",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 694,
+    "name": "team-magma-hideout",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 695,
+    "name": "battle-resort",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 696,
+    "name": "ss-tidal",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 697,
+    "name": "mirage-forest",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 698,
+    "name": "mirage-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 699,
+    "name": "mirage-mountain",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 700,
+    "name": "trackless-forest",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 701,
+    "name": "pathless-plain",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 702,
+    "name": "nameless-cavern",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 703,
+    "name": "fabled-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 704,
+    "name": "gnarled-den",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 705,
+    "name": "crescent-isle",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 706,
+    "name": "secret-islet",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 707,
+    "name": "soaring-in-the-sky",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 708,
+    "name": "secret-shore",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 709,
+    "name": "secret-meadow",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 710,
+    "name": "alola-route-1--hauoli-outskirts",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 711,
+    "name": "alola-route-1",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 712,
+    "name": "alola-route-3",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 713,
+    "name": "alola-route-2",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 714,
+    "name": "kalae-bay",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 715,
+    "name": "melemele-sea",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 716,
+    "name": "hauoli-city--beachfront",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 717,
+    "name": "hauoli-city--shopping-district",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 718,
+    "name": "hauoli-city--marina",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 719,
+    "name": "iki-town",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 720,
+    "name": "mahalo-trail",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 721,
+    "name": "mahalo-trail--plank-bridge",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 722,
+    "name": "ruins-of-conflict",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 723,
+    "name": "ten-carat-hill",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 724,
+    "name": "ten-carat-hill--farthest-hollow",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 725,
+    "name": "hauoli-cemetery",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 726,
+    "name": "melemele-meadow",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 727,
+    "name": "seaward-cave",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 728,
+    "name": "berry-fields",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 729,
+    "name": "verdant-cavern--trial-site",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 730,
+    "name": "verdant-cavern--totems-den",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 731,
+    "name": "alola-route-4",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 732,
+    "name": "alola-route-5",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 733,
+    "name": "alola-route-6",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 734,
+    "name": "alola-route-7",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 735,
+    "name": "alola-route-8",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 736,
+    "name": "alola-route-9",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 737,
+    "name": "hano-grand-resort",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 738,
+    "name": "hano-beach",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 739,
+    "name": "akala-meadow",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 740,
+    "name": "paniola-town",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 741,
+    "name": "heahea-city",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 742,
+    "name": "konikoni-city",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 743,
+    "name": "royal-avenue",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 744,
+    "name": "memorial-hill",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 745,
+    "name": "paniola-ranch",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 746,
+    "name": "wela-volcano-park",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 747,
+    "name": "wela-volcano-park--totems-den",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 748,
+    "name": "brooklet-hill",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 749,
+    "name": "brooklet-hill--totems-den",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 750,
+    "name": "lush-jungle",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 751,
+    "name": "ruins-of-life",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 752,
+    "name": "akala-outskirts",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 753,
+    "name": "digletts-tunnel",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 754,
+    "name": "battle-royal-dome",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 755,
+    "name": "alola-route-10",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 756,
+    "name": "alola-route-11",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 757,
+    "name": "secluded-shore",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 758,
+    "name": "alola-route-13",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 759,
+    "name": "tapu-village",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 760,
+    "name": "alola-route-15",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 761,
+    "name": "alola-route-16",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 762,
+    "name": "alola-route-17",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 763,
+    "name": "alola-route-12",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 764,
+    "name": "haina-desert",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 765,
+    "name": "alola-route-14",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 766,
+    "name": "ulaula-meadow",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 767,
+    "name": "po-town",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 768,
+    "name": "malie-city",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 769,
+    "name": "malie-garden",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 770,
+    "name": "mount-hokulani",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 771,
+    "name": "blush-mountain",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 772,
+    "name": "ruins-of-abundance",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 773,
+    "name": "lake-of-the-sunne",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 774,
+    "name": "lake-of-the-moone",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 775,
+    "name": "mount-lanakila",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 776,
+    "name": "shady-house",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 777,
+    "name": "thrifty-megamart--abandoned-site",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 778,
+    "name": "hokulani-observatory",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 779,
+    "name": "alola-pokemon-league",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 780,
+    "name": "poni-meadow",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 781,
+    "name": "poni-wilds",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 782,
+    "name": "ancient-poni-path",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 783,
+    "name": "poni-breaker-coast",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 784,
+    "name": "poni-grove",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 785,
+    "name": "poni-plains",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 786,
+    "name": "poni-coast",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 787,
+    "name": "poni-gauntlet",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 788,
+    "name": "seafolk-village",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 789,
+    "name": "vast-poni-canyon",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 790,
+    "name": "altar-of-the-sunne",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 791,
+    "name": "altar-of-the-moone",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 792,
+    "name": "ruins-of-hope",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 793,
+    "name": "resolution-cave",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 794,
+    "name": "exeggutor-island",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 795,
+    "name": "battle-tree",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 796,
+    "name": "aether-paradise",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 797,
+    "name": "ultra-space",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 798,
+    "name": "malie-city--outer-cape",
+    "region": {
+      "name": "alola",
+      "url": "https://pokeapi.co/api/v2/region/7/"
+    }
+  },
+  {
+    "id": 799,
+    "name": "roaming-kanto",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 800,
+    "name": "roaming-johto",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 801,
+    "name": "roaming-hoenn",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 802,
+    "name": "roaming-sinnoh",
+    "region": {
+      "name": "sinnoh",
+      "url": "https://pokeapi.co/api/v2/region/4/"
+    }
+  },
+  {
+    "id": 803,
+    "name": "terra-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 804,
+    "name": "marine-cave",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 805,
+    "name": "two-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 806,
+    "name": "three-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 807,
+    "name": "three-isle-path",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 808,
+    "name": "six-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 809,
+    "name": "seven-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 810,
+    "name": "birth-island",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 811,
+    "name": "navel-rock",
+    "region": {
+      "name": "kanto",
+      "url": "https://pokeapi.co/api/v2/region/1/"
+    }
+  },
+  {
+    "id": 812,
+    "name": "faraway-island",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 813,
+    "name": "hoenn-battle-frontier",
+    "region": {
+      "name": "hoenn",
+      "url": "https://pokeapi.co/api/v2/region/3/"
+    }
+  },
+  {
+    "id": 814,
+    "name": "johto-safari-zone",
+    "region": {
+      "name": "johto",
+      "url": "https://pokeapi.co/api/v2/region/2/"
+    }
+  },
+  {
+    "id": 815,
+    "name": "cabo-poco",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 816,
+    "name": "los-platos",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 817,
+    "name": "mesagoza",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 818,
+    "name": "cortondo",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 819,
+    "name": "alfornada",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 820,
+    "name": "pokemon-league",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 821,
+    "name": "artazon",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 822,
+    "name": "levincia",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 823,
+    "name": "zapapico",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 824,
+    "name": "cascarrafa",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 825,
+    "name": "porto-marinada",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 826,
+    "name": "medali",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 827,
+    "name": "montenevera",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 828,
+    "name": "paldea-south-province-area-one",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 829,
+    "name": "paldea-south-province-area-two",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 830,
+    "name": "paldea-south-province-area-three",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 831,
+    "name": "paldea-south-province-area-four",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 832,
+    "name": "paldea-south-province-area-five",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 833,
+    "name": "paldea-south-province-area-six",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 834,
+    "name": "south-paldean-sea",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 835,
+    "name": "poco-path",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 836,
+    "name": "inlet-grotto",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 837,
+    "name": "naranja-academy/uva-academy",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 838,
+    "name": "alfornada-cavern",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 839,
+    "name": "grasswither-shrine",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 840,
+    "name": "paldea-east-province-area-one",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 841,
+    "name": "paldea-east-province-area-two",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 842,
+    "name": "paldea-east-province-area-three",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 843,
+    "name": "east-paldean-sea",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 844,
+    "name": "tagtree-thicket",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 845,
+    "name": "schedar-squads-base",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 846,
+    "name": "navi-squads-base",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 847,
+    "name": "paldea-west-province-area-one",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 848,
+    "name": "paldea-west-province-area-two",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 849,
+    "name": "paldea-west-province-area-three",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 850,
+    "name": "asado-desert",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 851,
+    "name": "west-paldean-sea",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 852,
+    "name": "segin-squads-base",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 853,
+    "name": "icerend-shrine",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 854,
+    "name": "paldea-north-province-area-one",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 855,
+    "name": "paldea-north-province-area-two",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 856,
+    "name": "paldea-north-province-area-three",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 857,
+    "name": "casseroya-lake",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 858,
+    "name": "dalizapa-passage",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 859,
+    "name": "glaseado-mountain",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 860,
+    "name": "socarrat-trail",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 861,
+    "name": "groundblight-shrine",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 862,
+    "name": "firescourge-shrine",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 863,
+    "name": "north-paldean-sea",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 864,
+    "name": "ruchbah-squads-base",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 865,
+    "name": "caph-squads-base",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 866,
+    "name": "area-zero",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  },
+  {
+    "id": 867,
+    "name": "zero-lab",
+    "region": {
+      "name": "paldea",
+      "url": "https://pokeapi.co/api/v2/region/10/"
+    }
+  }
+]
